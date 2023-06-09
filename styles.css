@@ -1,0 +1,94 @@
+header{ background-color: #0020F4;
+	height: 250px;
+}
+
+h3{
+	color: #FFFFFF;
+	padding-left: 280px;
+	padding-top: 70px;
+}
+
+
+/* .point1{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	color: #FFFFFF;
+}
+.point2{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	color: #FFFFFF;
+}
+.point3{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	color: #FFFFFF;
+} */
+
+section{
+	display: block;
+	text-align: center;
+}
+
+.pic1{
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -40px;
+}
+.img1{
+    width: 300px;
+}
+.pic1 p{
+	position: absolute;
+	background-color: #FFFFFF;
+	border-radius: 12px;
+	bottom: 1px;
+	left: 5px;
+	right: 5px;
+}
+
+.pic2{
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -100px;
+}
+.img2{
+    width: 350px;
+}
+.pic2 p{
+	position: absolute;
+	background-color: #FFFFFF90;
+	border-radius: 12px;
+	bottom: 30px;
+	left:40px;
+	right: 40px;
+	top: 200px;
+}
+
+.pic3{
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -40px;
+}
+.img3{
+    width: 300px;
+}
+.pic3 p{
+	position: absolute;
+	background-color: #FFFFFF;
+	border-radius: 12px;
+	bottom: 1px;
+	left: 5px;
+	right: 5px;	
+}
+
+h5{
+	position: absolute;
+	right: 290px;
+}

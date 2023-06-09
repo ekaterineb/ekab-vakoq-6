@@ -1,2 +1,2 @@
-# ekab-vakoq-6
+# ekabr-6
 lesson-6
